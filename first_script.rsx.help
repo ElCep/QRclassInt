@@ -1,0 +1,38 @@
+(dp0
+S'ALG_DESC'
+p1
+VCe plug-in propose d'utiliser la fonction classInerval du package R "classInt", pour visualiser la repartitions des individus statistique en fonction du type de classification.
+p2
+sS'R_CONSOLE_OUTPUT'
+p3
+VOn a egalement sous forme de tableau les classes et le nombre d'individus par classe
+p4
+sS'ALG_CREATOR'
+p5
+VEtienne Delay (laboratoire GEOLAB UMR 6042 CNRS)
+p6
+sS'fieldMonVecteur'
+p7
+VLe champs numerique sur lequel faire la classification
+p8
+sS'styleClass'
+p9
+VLe parametres qui definisent le style de classification  : "fixed", "sd", "equal", "pretty", "quantile", "kmeans", "hclust", "bclust", "fisher", or "jenks". Sans les guillements.
+p10
+sS'RPLOTS'
+p11
+VLe plug-in renvoie une courbe des frequences cumule avec sous formes de lignes verticales les bornes definit par la methode choisie
+p12
+sS'ALG_HELP_CREATOR'
+p13
+VJean Philippe Leleu (laboratoire GEOLAB UMR 6042 CNRS), et Fabien Cerbelaud (laboratoire GEOLAB UMR 6042 CNRS).
+p14
+sS'monVecteur'
+p15
+VLa couche vecteur sur laquelle sera effectue la classification
+p16
+sS'class'
+p17
+Vnombres de classes &agrave; faire realisees par le script
+p18
+s.
